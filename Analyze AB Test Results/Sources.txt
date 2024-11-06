@@ -1,0 +1,12 @@
+
+Sources:
+
+https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/
+https://www.reddit.com/r/learnpython/comments/13cqyau/difference_between_nunique_and_unique_please/
+https://stackoverflow.com/questions/74070793/pandas-delete-duplicate-rows-based-on-timestamp
+https://stackoverflow.com/questions/69443037/pandas-truncate-a-string-that-is-too-long-in-a-column
+https://docs.w3cub.com/statsmodels/generated/statsmodels.stats.proportion.proportions_ztest
+https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
+https://stackoverflow.com/questions/20840803/how-to-convert-false-to-0-and-true-to-1
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+https://saturncloud.io/blog/how-to-output-pandas-getdummies-as-integer-or-boolean-instead-of-float/
