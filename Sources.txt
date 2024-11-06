@@ -1,0 +1,12 @@
+Sources
+
+
+https://htmlcolorcodes.com/
+
+https://www.makeuseof.com/fill-missing-data-with-pandas/
+
+https://sparkbyexamples.com/pandas/pandas-drop-rows-with-nan-values-in-dataframe/
+
+https://sease.io/2022/03/efficiently-manage-numeric-ids-in-json-and-pandas.html
+
+https://stackoverflow.com/questions/42354001/json-object-must-be-str-bytes-or-bytearray-not-dict
